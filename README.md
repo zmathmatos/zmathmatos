@@ -1,5 +1,4 @@
-# Matheus Matos 👋  <img align="left" alt="Math-pic" height="220" style="border-radius:700px;" src="https://media.discordapp.net/attachments/359833914400833558/996466655116918905/download20220702140952.png?width=522&height=493">
-<div>
+# Oi, eu sou Matheus Matos 👋
   <img align="right" height="150em" src="https://github-readme-stats.vercel.app/api?username=zMathMatos&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <li>Tenho 22 anos</li>
   <li>Sou do Rio de Janeiro</li>
