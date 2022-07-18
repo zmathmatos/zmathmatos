@@ -3,8 +3,6 @@
   <li>Tenho 22 anos</li>
   <li>Sou do Rio de Janeiro</li>
   <li> Curso Sistemas de Informação</li>
-  <li> Estudo desenvolvimento em Front-End</li>
-  <li>Designer Gráfico nas horas vagas</li>
   <li>"Se não me desafio, nunca me supero"</li>
   <a href="https://github.com/zMathMatos">
 </div>
