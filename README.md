@@ -3,6 +3,7 @@
   <li>Tenho 22 anos</li>
   <li>Sou do Rio de Janeiro</li>
   <li> Curso Sistemas de Informação</li>
+  <li> Aqui você pode ver alguns dos meus projetos!</li>
   <li>"Se não me desafio, nunca me supero"</li>
   <a href="https://github.com/zMathMatos">
 </div>
