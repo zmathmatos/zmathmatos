@@ -1,10 +1,5 @@
 # Oi, eu sou Matheus Matos! 👋
   <img align="right" height="150em" src="https://github-readme-stats.vercel.app/api?username=zmathmatos&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <li>Tenho 22 anos</li>
-  <li>Sou do Rio de Janeiro</li>
-  <li> Curso Sistemas de Informação</li>
-  <li> Estudo desenvolvimento em Front-End</li>
-  <li>Designer Gráfico nas horas vagas</li>
   <li>"Se não me desafio, nunca me supero"</li>
   <a href="https://github.com/zMathMatos">
 </div>
