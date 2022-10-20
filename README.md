@@ -1,4 +1,4 @@
-<h2>Oi, me chamo Matheus, e aqui você encontra meus projetos em andamento! </h2>
+<h2>Oi, sou o Matheus, e aqui você encontra meus projetos em andamento! </h2>
 
 
 <div align="center">
