@@ -8,7 +8,7 @@ I currently work at [QSTI](https://www.qsti.com.br)
 
 I'm learning at the moment **C#** and **.NET**
 
-## 🚀💻 Technologies & Tools
+## 💻 Technologies & Tools
 <div style="display: inline_block" align="center"><br>
   <img align="center" alt="Math-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Math-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
