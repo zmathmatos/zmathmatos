@@ -33,6 +33,6 @@ I'm learning at the moment **C#** and **.NET**
 
 ## ⚡ GitHub Stats
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=zmathmatos&show_icons=true&count_private=true&show_icons=true&include_all_commits=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zmathmatos&hide=TeX&layout=compact&theme=tokyonight)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=zmathmatos&show_icons=true&count_private=true&show_icons=true&include_all_commits=true&theme=chartreuse-dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zmathmatos&hide=TeX&layout=compact&theme=chartreuse-dark)
 ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
