@@ -4,9 +4,11 @@
 <div align="center">
   <a href="https://github.com/zmathmatos">
   <img height="180px" src="https://github-readme-stats.vercel.app/api?username=zmathmatos&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-##
-      ![TOP Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=zmathmatos&layout=compact&theme=dark)
 </div>
+  <div>
+      ![TOP Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=zmathmatos&layout=compact&theme=dark)
+   </div>
+    
  <div style="display: inline_block" align="center"><br>
   <img align="center" alt="Math-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Math-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
