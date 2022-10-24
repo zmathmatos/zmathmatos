@@ -32,7 +32,9 @@ I'm learning at the moment **C#** and **.NET**
  </div>
 
 ## ⚡ GitHub Stats
+<div align="center">
+  <a href="https://github.com/zmathmatos">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zmathmatos&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zmathmatos&layout=compact&langs_count=7&theme=react"/>
+</div>
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=zmathmatos&show_icons=true&count_private=true&show_icons=true&include_all_commits=true&theme=react)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zmathmatos&hide=TeX&layout=compact&theme=react)
-![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
