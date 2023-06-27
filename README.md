@@ -34,7 +34,7 @@ I'm learning at the moment **C#** and **.NET**
 ## ⚡ GitHub Stats
 <div align="center">
   <a href="https://github.com/zmathmatos">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zmathmatos&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+  [![Matheus's GitHub stats](https://github-readme-stats.vercel.app/api?username=zmathmatos)](https://github.com/zmathmatos/github-readme-stats)
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zmathmatos&layout=compact&langs_count=7&theme=react"/>
 </div>
 
