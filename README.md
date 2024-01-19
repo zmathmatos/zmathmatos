@@ -4,7 +4,7 @@
 
 I currently work at [SENAC](https://www.dn.senac.br/)
 
-I'm learning at the moment **C#** and **.NET**
+Learning at the moment **C#** and **.NET**
 
 ## 💻 Technologies & Tools
 <div style="display: inline_block" align="center"><br>
