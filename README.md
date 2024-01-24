@@ -17,7 +17,7 @@ Learning at the moment **C#** and **.NET**
   <img align="center" alt="Math-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Math-Ts" height="40" width="40" src="https://github.com/angular/angular/raw/main/aio/src/assets/images/logos/angular/angular.svg">
   <img align="center" alt="Math-HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ionic/ionic-original.svg">
-   <img align="center" alt="Math-Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+   
 </div>
 
 ## 📱 Social
