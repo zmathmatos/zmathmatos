@@ -1,10 +1,13 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0787F6&height=120&section=header"/>
 <p align="left"><img src="https://komarev.com/ghpvc/?username=zmathmatos" alt="Matheus"/></p>
-<h1 align = "justify">  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hi, I am Matheus Matos! </h1> 
-<p align = "justify">Full Stack Development, Coffee, Games and Music.</p>
 
-I currently work at [SENAC](https://www.dn.senac.br/)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=3000&pause=1000&random=false&width=650&height=65&lines=Hello%2C+World!;My+name+is+Matheus+Matos;FullStack+Developer)](https://git.io/typing-svg)
 
-Learning at the moment **C#** and **.NET**
+- 23y
+- Rio de Janeiro - Brazil
+- Currently working at [SENAC](https://www.dn.senac.br/)
+
+
 
 ## 💻 Technologies & Tools
 <div style="display: inline_block" align="center"><br>
@@ -32,8 +35,11 @@ Learning at the moment **C#** and **.NET**
 
 ## ⚡ GitHub Stats
 <div align="center">
-  <a href="https://github.com/zmathmatos">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zmathmatos&show_icons=true&theme=dark#gh-dark-mode-only"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zmathmatos&layout=compact&langs_count=7&theme=react"/>
+ <a href="https://github.com/zmathmatos">
+ <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zmathmatos&show_icons=true&bg_color=DEG,0066ff,00b7ff&title_color=ffffff&text_color=000000&icon_color=ffffff"/>
+ <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zmathmatos&layout=compact&langs_count=7&&bg_color=DEG,0066ff,00b7ff&title_color=ffffff&text_color=000000"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=zmathmatos&theme=discord&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0787F6&height=120&section=footer"/>
 
