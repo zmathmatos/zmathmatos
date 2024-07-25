@@ -3,7 +3,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=3000&pause=1000&random=false&width=650&height=65&lines=Hello%2C+World!;My+name+is+Matheus+Matos;FullStack+Developer)](https://git.io/typing-svg)
 
-- 23y
+- 24y
 - Rio de Janeiro - Brazil
 - Currently working at [SENAC](https://www.dn.senac.br/)
 
@@ -36,8 +36,8 @@
 ## ⚡ GitHub Stats
 <div align="center">
  <a href="https://github.com/zmathmatos">
- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zmathmatos&show_icons=true&bg_color=DEG,0066ff,00b7ff&title_color=ffffff&text_color=000000&icon_color=ffffff"/>
- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zmathmatos&layout=compact&langs_count=7&&bg_color=DEG,0066ff,00b7ff&title_color=ffffff&text_color=000000"/>
+ <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zmathmatos&show_icons=true&bg_color=DEG,000000,001111&title_color=ffffff&text_color=000000&icon_color=ffffff"/>
+ <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zmathmatos&layout=compact&langs_count=7&&bg_color=DEG,000000,001111&title_color=ffffff&text_color=ffffff"/>
   <img src="https://github-profile-trophy.vercel.app/?username=zmathmatos&theme=discord&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </div>
 
