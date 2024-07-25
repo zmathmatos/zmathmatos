@@ -17,7 +17,7 @@
   <img align="center" alt="Math-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Math-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Math-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Math-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="git" />
+  <img align="center" alt="Math-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/>
   <img align="center" alt="Math-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Math-Angular" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg">
   <img align="center" alt="Math-HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ionic/ionic-original.svg">
@@ -38,7 +38,7 @@
   <a href="https://github.com/zmathmatos">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zmathmatos&show_icons=true&bg_color=DEG,000000,001111&title_color=ffffff&text_color=ffffff&icon_color=ffffff"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zmathmatos&layout=compact&langs_count=7&&bg_color=DEG,000000,001111&title_color=ffffff&text_color=ffffff"/>
-  <img src="https://github-profile-trophy.vercel.app/?username=zmathmatos&theme=onestar&row=1&no-bg=false&column=6&margin-w=15&margin-h=30" />
+  <img src="https://github-profile-trophy.vercel.app/?username=zmathmatos&theme=onestar&row=1&no-bg=false&column=6&margin-w=15&margin-h=15" margin-top="20px"/>
 </div>
      
 
