@@ -36,7 +36,7 @@
 ## ⚡ GitHub Stats
 <div align="center">
  <a href="https://github.com/zmathmatos">
- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zmathmatos&show_icons=true&bg_color=DEG,000000,001111&title_color=ffffff&text_color=000000&icon_color=ffffff"/>
+ <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zmathmatos&show_icons=true&bg_color=DEG,000000,001111&title_color=ffffff&text_color=ffffff&icon_color=ffffff"/>
  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zmathmatos&layout=compact&langs_count=7&&bg_color=DEG,000000,001111&title_color=ffffff&text_color=ffffff"/>
   <img src="https://github-profile-trophy.vercel.app/?username=zmathmatos&theme=discord&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </div>
