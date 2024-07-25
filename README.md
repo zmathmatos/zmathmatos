@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0787F6&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=header"/>
 <p align="left"><img src="https://komarev.com/ghpvc/?username=zmathmatos" alt="Matheus"/></p>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=3000&pause=1000&random=false&width=650&height=65&lines=Hello%2C+World!;My+name+is+Matheus+Matos;FullStack+Developer)](https://git.io/typing-svg)
@@ -41,5 +41,5 @@
   <img src="https://github-profile-trophy.vercel.app/?username=zmathmatos&theme=discord&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0787F6&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=footer"/>
 
