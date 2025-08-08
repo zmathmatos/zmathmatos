@@ -3,7 +3,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=3000&pause=1000&random=false&width=650&height=65&lines=Hello%2C+World!;My+name+is+Matheus+Matos;FullStack+Developer)](https://git.io/typing-svg)
 
-- 24y
+- 25y
 - Rio de Janeiro - Brazil
 - Currently working at [SENAC](https://www.dn.senac.br/)
 
